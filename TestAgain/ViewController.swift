@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
         print ("Testing Feature-x")
+        print ("Testing Feature-x again")
     }
 
 
